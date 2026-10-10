@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#14221A" stroke="#ECC880" stroke-width="3" />
+  <path d="M50 15 C48 24 38 29 26 30 C34 33 38 41 39 48 C44 40 47 28 50 15Z" fill="#ECC880" />
+  <path d="M50 15 C52 24 62 29 74 30 C66 33 62 41 61 48 C56 40 53 28 50 15Z" fill="#ECC880" />
+  <circle cx="50" cy="27" r="3" fill="#FFF3D1" />
+  <text x="50" y="74" font-family="serif" font-size="20" font-weight="bold" fill="#ECC880" text-anchor="middle">S&amp;V</text>
+</svg>
